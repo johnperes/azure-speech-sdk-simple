@@ -1,0 +1,16 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+publish/
+
+# IDE
+.vs/
+*.user
+*.suo
+
+# Local config with secrets
+appsettings.json
+
+# OS
+Thumbs.db
+.DS_Store
